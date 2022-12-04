@@ -1,0 +1,12 @@
+{
+  "name": "akins-auto",
+  "version": "1.0.0",
+  "description": "Company Profile",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve app/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rebecca Mayers <rebecca.here.live@gmail.com>",
+  "license": "MIT"
+}
