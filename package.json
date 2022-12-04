@@ -4,7 +4,7 @@
   "description": "Company Profile",
   "main": "index.html",
   "scripts": {
-    "start": "npx serve app/",
+    "start": "npx serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rebecca Mayers <rebecca.here.live@gmail.com>",
